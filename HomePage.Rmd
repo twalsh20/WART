@@ -1,0 +1,15 @@
+---
+title: "Home Page"
+author: TDW
+date: 
+output: 
+  rmdformats::downcute:
+    downcute_theme: "chaos"
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    highlight: kate
+    toc_depth: 3
+
+---

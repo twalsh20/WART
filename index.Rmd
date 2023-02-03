@@ -1,6 +1,91 @@
 ---
-title: "Front Page"
+title: "WART"
 author: "Thomas Walsh"
 date: "2023-02-03"
-output: html_document
+output: 
+  rmdformats::downcute:
+    downcute_theme: "chaos"
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    highlight: tango
+    toc_depth: 1
+    fig_width: 5
+    fig_height: 8
 ---
+# Welcome {.tabset}
+
+## Home Page 
+
+Welcome! And thank you for visiting my site! This is a space where I wish to share some of my creations in a fun and safe way. I hope you enjoy. Below are two projects I worked on for a past JTerm class.  
+
+![](Gall1.jpg) ![](GALL2.jpg){width=50%}
+
+## Paint
+**Paint pieces done with gauche and other supplemental medias**
+
+![GlobGOB](FACEFUNK.jpg){width=125%}
+
+![BUGEYED(CARTOON)](FACECREEP.jpg){width=125%}
+
+
+![PHISK (fish)](FISH.jpg){width=125%}
+
+![SKULLFULL (dumpsterfire)](SKULL.jpg){width=125%}
+
+## Potraits 
+**Portraits done in JTerm class "Unlearning What You See"**
+
+![3/4 view model 1](FACELONG.jpg){width=65%}
+
+![full face model 1](FACEGREEN.jpg){width=65%}
+
+![3/4 view model 2](FACEGOO.jpg){width=65%}
+
+![full body model](BODYGREEN.jpg){width=65%}
+
+![ 3/4 view model 3](FACELINE.jpg){width=65%}
+
+![full face model 2](FACEFIRE.jpg){width=65%}
+
+
+## Mixed Media 
+**Mixed Media pieces create with: pen, markers, glue, clay, fabric, sewing, found objects, tape, pastels, paint, etc.**
+![Untitled](ShouldOrI.jpg){width=65%}
+
+![PickL](PICKLES.jpg){width=65%}
+
+![for robbo](SURF.jpg){width=65%}
+
+![eurmania](COLLAG.jpg){width=65%}
+
+![lizR?](LIZAR.jpg){width=65%}
+
+## Doodles 
+**Doodles created in class or in free time oftentimes in a notebook or on scrap paper**
+
+![Jupperter(with vic)](JUPITER.jpg){width=55%}
+
+![The goods on thy tongue](TONGUE.jpg){width=55%}
+
+![Untitled](PAGE.jpg){width=75%} 
+
+## About Me 
+
+![](SUN.jpg){height=65%}
+![](CLIMB.jpg){height=65%}
+![Thomas Walsh](SHORTS.jpg){height=65%}
+
+
+
+  Thomas is a junior feb at Middlebury College. He is a Biology major with hopes of attending vet school. Outside of classwork, he is a very active individual who is game oriented and playful. He loves to spend time with his friends and finds joy in climbing, being outside and- of course -doing art. He hopes you have enjoyed the art you have seen.
+
+
+
+
+
+
+
+
+
