@@ -18,7 +18,7 @@ output:
 
 ## Home Page 
 
-Welcome! And thank you for visiting my site! This is a space where I wish to share some of my creations in a fun and safe way. I hope you enjoy. Below are two projects I worked on for a past JTerm class.  
+Welcome! And thank you for visiting my site! This is a space where I wish to share some of my creations in a fun and safe way. I hope you enjoy. Below are two projects I worked on for a past JTerm class. (Website best in darkmode)
 
 ![](Gall1.jpg) ![](GALL2.jpg){width=50%}
 
@@ -52,6 +52,7 @@ Welcome! And thank you for visiting my site! This is a space where I wish to sha
 
 ## Mixed Media 
 **Mixed Media pieces create with: pen, markers, glue, clay, fabric, sewing, found objects, tape, pastels, paint, etc.**
+
 ![Untitled](ShouldOrI.jpg){width=65%}
 
 ![PickL](PICKLES.jpg){width=65%}
@@ -71,7 +72,7 @@ Welcome! And thank you for visiting my site! This is a space where I wish to sha
 
 ![Untitled](PAGE.jpg){width=75%} 
 
-## About Me 
+## About The Artist 
 
 ![](SUN.jpg){height=65%}
 ![](CLIMB.jpg){height=65%}
